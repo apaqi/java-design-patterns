@@ -36,6 +36,13 @@
 			<artifactId>mockito-core</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>net.sourceforge.plantuml</groupId>
+			<artifactId>plantuml</artifactId>
+			<version>8059</version>
+			<classifier>javadoc</classifier>
+			<type>javadoc</type>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
